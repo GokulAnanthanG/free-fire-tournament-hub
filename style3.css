@@ -1,0 +1,19 @@
+ 
+.paralex{
+    height: 400px;
+}
+.touranament{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 800;
+    color:#FFC311;
+ }
+ .filter{
+     font-family:sans-serif;
+     font-weight: 700;
+ }
+  .select{
+width: 110px;
+border:3px solid #FFC311;
+outline: none;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}

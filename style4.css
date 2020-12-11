@@ -1,0 +1,49 @@
+body{
+    background-image:
+  
+    }
+    h2{
+        font-family: 'Bebas Neue', cursive;
+    }
+    .flex{
+        display: flex;
+     }
+    .box1{
+        flex: 1;
+        background-image:
+        linear-gradient(to bottom, rgba(230, 195, 92, 0.52), rgba(223, 135, 35, 0.73)),
+        url('ff2.png');
+        width: 200px;
+         height: 260px;
+        background-size: cover;
+     }
+    .box2{
+        flex: 1;
+        padding: 10px;
+        background-color:#ffc41179;
+        height: 260px;
+
+     }
+    
+    .adminLog{
+        font-family: 'Bebas Neue', cursive;
+        color: white;
+        line-height: 200px;
+     }
+    
+     label{
+ font-family:Arial, Helvetica, sans-serif;  
+     }
+     button{
+         outline: none;
+         font-family: 'Bebas Neue', cursive;
+
+     }
+     button:hover{
+         background-color: #FFC311;
+         color: white;
+     }
+     p{
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         color: orange;
+     }

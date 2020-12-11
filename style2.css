@@ -1,0 +1,77 @@
+.paralex{
+    height: 300px;
+  }
+ .touranament{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 800;
+    color:#FFC311;
+ }
+ .plus{
+     font-family:fantasy;
+     font-weight: 700;
+ }
+ .flexBox{
+     display: flex;
+     padding: 5px;
+ }
+ .box1{
+     flex: 1;
+     margin: 10px;
+ }
+ .box1 input{
+     width: 100%;
+     height: 50px;
+ }
+ 
+ .box1 select{
+    width: 100%;
+    height: 50px;
+}
+ .box2{
+    flex: 1;
+    margin: 10px;
+}
+.box2 input{
+    width: 100%;
+    height: 50px;
+}
+.box2 select{
+    width: 100%;
+    height: 50px;
+}
+label{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    color: #FFC311;
+ }
+ .btn{
+     margin-top: 12px;
+     background-color: #FFC311;
+     color: white;
+     outline: none;
+     border: none;
+     visibility: hidden;
+  }
+ .btn:hover{
+     background-color: white;
+     border: 2px solid black;
+     color: black;
+ 
+ }
+ #fee{
+     cursor: not-allowed;
+  }
+  .errorPno{
+      color: red;
+      font-size: 10px;font-family: sans-serif;
+      visibility: hidden;
+    }
+    .error{
+        color: red;
+        font-size: 10px;font-family: sans-serif;
+        visibility: visible;
+    }
+    .btnA{
+        border: 1px solid #FFC311;
+    }
+ 
